@@ -6,14 +6,14 @@
 
 **A modern, enterprise-grade Windows optimizer, cleaner & debloater — powered by Rust, React and PowerShell.**
 
-[![Version](https://img.shields.io/badge/version-2.1.7-teal)](https://github.com/karan5028ji/Win-Optimizer-Pro/releases)
-[![CI](https://github.com/karan5028ji/Win-Optimizer-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/karan5028ji/Win-Optimizer-Pro/actions)
+[![Version](https://img.shields.io/badge/version-2.1.7-teal)](https://github.com/kxrn-gupta/Win-Optimizer-Pro/releases)
+[![CI](https://github.com/kxrn-gupta/Win-Optimizer-Pro/actions/workflows/ci.yml/badge.svg)](https://github.com/kxrn-gupta/Win-Optimizer-Pro/actions)
 [![Platform: Windows](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6)](https://www.microsoft.com/windows)
 [![Tauri](https://img.shields.io/badge/built%20with-Tauri%20v2-0d9488)](https://v2.tauri.app)
 [![Azure for Students](https://img.shields.io/badge/Azure-$100_Free_Student_Cloud-0078D4?logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/free/students?wt.mc_id=studentamb_664130)
 [![Microsoft Copilot Studio](https://img.shields.io/badge/Copilot_Studio-Free_AI_Agent_Lab-5C2D91?logo=microsoft&logoColor=white)](https://learn.microsoft.com/credentials/applied-skills/build-an-agent-in-microsoft-copilot-studio/?wt.mc_id=studentamb_664130)
-[![License: MIT](https://img.shields.io/github/license/karan5028ji/Win-Optimizer-Pro)](LICENSE)
-[![Website](https://img.shields.io/badge/website-winoptimizerpro-14b8a6)](https://karan5028ji.github.io/Win-Optimizer-Pro/)
+[![License: MIT](https://img.shields.io/github/license/kxrn-gupta/Win-Optimizer-Pro)](LICENSE)
+[![Website](https://img.shields.io/badge/website-winoptimizerpro-14b8a6)](https://kxrn-gupta.github.io/Win-Optimizer-Pro/)
 
 > **⚠️ Warning:** This tool modifies your system — it removes apps, edits the registry and deletes files.
 > Review the console output before applying anything — the app applies changes directly by default and auto-elevates on start.
@@ -51,20 +51,20 @@ Designed for **Windows 10 / Windows 11**.
 The fastest way — one line, straight from GitHub, no install needed:
 
 ```powershell
-irm https://raw.githubusercontent.com/karan5028ji/Win-Optimizer-Pro/main/run.ps1 | iex
+irm https://raw.githubusercontent.com/kxrn-gupta/Win-Optimizer-Pro/main/run.ps1 | iex
 ```
 
-Prefer a proper install (per-machine, Start Menu + Desktop shortcuts)? Grab the **`Win-Optimizer-Pro_2.1.7_x64-setup.exe`** from the [Releases](https://github.com/karan5028ji/Win-Optimizer-Pro/releases) page.
+Prefer a proper install (per-machine, Start Menu + Desktop shortcuts)? Grab the **`Win-Optimizer-Pro_2.1.7_x64-setup.exe`** from the [Releases](https://github.com/kxrn-gupta/Win-Optimizer-Pro/releases) page.
 
 Or install with **winget**:
 
 ```powershell
-winget install karan5028ji.WinOptimizerPro
+winget install kxrn-gupta.WinOptimizerPro
 ```
 
 > Releases are built automatically by CI on tags — just push a `v*` tag. The app
 > checks for updates on startup and installs them in the background
-> ([auto-updater](https://github.com/karan5028ji/Win-Optimizer-Pro/releases)).
+> ([auto-updater](https://github.com/kxrn-gupta/Win-Optimizer-Pro/releases)).
 
 ## 🆕 What's new in v2.1.7
 
@@ -87,7 +87,7 @@ winget install karan5028ji.WinOptimizerPro
 
 | Area | Change |
 | --- | --- |
-| 🏆 **Published to winget** | Now installable via `winget install karan5028ji.WinOptimizerPro` — PR merged into `microsoft/winget-pkgs` |
+| 🏆 **Published to winget** | Now installable via `winget install kxrn-gupta.WinOptimizerPro` — PR merged into `microsoft/winget-pkgs` |
 
 ## 🆕 What's new in v2.1.4
 
@@ -222,7 +222,7 @@ Issues, ideas and PRs are welcome. Open an issue to report bugs or request tweak
 
 ## 👥 Contributors
 
-- [@karan5028ji](https://github.com/karan5028ji) — author & maintainer
+- [@kxrn-gupta](https://github.com/kxrn-gupta) — author & maintainer
 - [@ankit-is-a-dev](https://github.com/ankit-is-a-dev) — testing, feedback & documentation
 
 ## 📄 License
@@ -239,7 +239,7 @@ This project is maintained and developed by **Kxrn** — an independent software
 
 🌐 **Explore my ecosystem:**
 - **Developer Portfolio:** [kxrn.is-a.dev](https://kxrn.is-a.dev/)
-- **GitHub Profile:** [@karan5028ji](https://github.com/karan5028ji)
+- **GitHub Profile:** [@kxrn-gupta](https://github.com/kxrn-gupta)
 - **Music Label:** Founder of [DuskyMoon Productions](https://duskymoon.vercel.app)
 - **Free Student Cloud:** [Claim $100 Free Azure for Students (No Credit Card)](https://azure.microsoft.com/free/students?wt.mc_id=studentamb_664130)
 - **Free AI Agent Sandbox:** [Build an AI Agent in Microsoft Copilot Studio](https://learn.microsoft.com/credentials/applied-skills/build-an-agent-in-microsoft-copilot-studio/?wt.mc_id=studentamb_664130)
