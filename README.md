@@ -59,7 +59,7 @@ Prefer a proper install (per-machine, Start Menu + Desktop shortcuts)? Grab the 
 Or install with **winget**:
 
 ```powershell
-winget install kxrn-gupta.WinOptimizerPro
+winget install win-optimizer-pro
 ```
 
 > Releases are built automatically by CI on tags — just push a `v*` tag. The app
@@ -87,7 +87,7 @@ winget install kxrn-gupta.WinOptimizerPro
 
 | Area | Change |
 | --- | --- |
-| 🏆 **Published to winget** | Now installable via `winget install kxrn-gupta.WinOptimizerPro` — PR merged into `microsoft/winget-pkgs` |
+| 🏆 **Published to winget** | Now installable via `winget install win-optimizer-pro` — PR merged into `microsoft/winget-pkgs` |
 
 ## 🆕 What's new in v2.1.4
 
