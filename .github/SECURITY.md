@@ -13,7 +13,7 @@ Please **do not** open a public issue for security vulnerabilities.
 Report vulnerabilities privately via the **GitHub Security Advisories** flow:
 
 1. Open the **Security** tab on the repository
-   (https://github.com/karan5028ji/Win-Optimizer-Pro/security).
+   (https://github.com/kxrn-gupta/Win-Optimizer-Pro/security).
 2. Click **Report a vulnerability** and fill in the details.
 
 You can also email the maintainer directly at **karan5028ji@gmail.com**.
